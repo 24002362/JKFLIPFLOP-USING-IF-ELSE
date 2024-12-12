@@ -1,4 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
+### NAME: HARIPRIYA M
+### REG NO: 24002362
+### EXPERIMENT 7: JKFLIPFLOP USING IF ELSE
 
 **AIM:** 
 
@@ -36,13 +38,20 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 /* write all the steps invloved */
 
+
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2024-12-12 133739](https://github.com/user-attachments/assets/402868d9-8865-42d2-9475-543e39f5e592)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2024-12-12 133636](https://github.com/user-attachments/assets/1321d55c-81f7-4bbf-8b7d-87e2a2e5ea3d)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+![Screenshot 2024-12-12 141015](https://github.com/user-attachments/assets/70531a42-e3f6-462c-a439-d856f6fd13e2)
+
 
 **RESULTS**
